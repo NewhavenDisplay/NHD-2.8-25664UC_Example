@@ -1,5 +1,5 @@
 # NHD-2.8-25664UC_Example
-Program for writing to Newhaven Display's Monochrome Graphic OLED NHD-2.8-25664UC Series with SSD1322 controller. This code is written for the Arduino Mega. 
+Program for writing to Newhaven Display's Monochrome Graphic OLED **NHD-2.8-25664UC** Series with SSD1322 controller. This code is written for the Arduino Mega. 
 
 Purchase a sample from our Product Pages linked below!
 
